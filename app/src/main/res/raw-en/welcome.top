@@ -47,5 +47,3 @@ u:(will you take peoples jobs) No. I am here to help.
 u:(will you take my job) No. I am here to help you.
 u:(are you alive) \rspd=90\ Not the same way you are. But i can move, and I need enery just like you.
 u:(are you intelligent) \rspd=90\ I learn new stuff everyday like humans but not in the same way.
-
-u:(move) ^execute(launchAnimation, headbang_a0001, sync)
