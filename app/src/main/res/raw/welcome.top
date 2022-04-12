@@ -1,0 +1,9 @@
+topic: ~welcome()
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+proposal: %start Say hello to start the discussion.
+
+# Replying to speech
+u:(~hello) ~hello
+
