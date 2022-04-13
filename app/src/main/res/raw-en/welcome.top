@@ -5,13 +5,9 @@ proposal: %start Say hello to start the discussion.
 include: lexicon_enu.top
 
 u:(hay) Hi there.
-
 u:(hello) Hi there.
 u:(hi) Hi there.
-
-
 u:(you are welcome) thanks
-
 u:(Who are you) Hello. My name is Pepper.
 u:(good morning) Good morning.
 u:(hi pepper) Hi human
@@ -56,5 +52,5 @@ u:(will you take peoples jobs) No. I am here to help.
 u:(will you take my job) No. I am here to help you.
 u:(are you alive) \rspd=90\ Not the same way you are. But i can move, and I need enery just like you.
 u:(are you intelligent) \rspd=90\ I learn new stuff everyday like humans but not in the same way.
-u:(dance) ^execute(myExecutor,disco_a001)
-u:(elephant) ^execute(myExecutor,elephant_a001)
+u:(can you dance) ^execute(myExecutor,disco_a001)
+u:(move like an elephant) ^execute(myExecutor,elephant_a001)

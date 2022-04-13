@@ -159,10 +159,8 @@ public class MainActivity extends RobotActivity implements RobotLifecycleCallbac
                 .withLocale(locale)
                 .build();
 
-
 // Add an on started listener to the Chat action.
         chat.addOnStartedListener(() -> Log.i(TAG, "Discussion started."));
-
         chat.async().run();
     }
 
